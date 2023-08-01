@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "bayesMRM"]
-	path = bayesMRM
-	url = https://github.com/cran/bayesMRM
 [submodule "bayMDS"]
 	path = bayMDS
 	url = https://github.com/cran/bayMDS
+[submodule "bayesMRM"]
+	path = bayesMRM
+	url = https://github.com/cran/bayesMRM
